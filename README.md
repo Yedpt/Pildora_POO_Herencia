@@ -1,6 +1,6 @@
 Este archivo README.md proporciona una guía clara y detallada para que los interesados puedan seguir paso a paso el proceso de configuración y ejecución del proyecto. ¡Espero que te sea útil en tu proceso de aprendizaje!
 
-# Pildora de Alias de Tipos y Enums en TypeScript
+# Pildora de Programacion orientada a objetos (POO) - Herencia 
 Este proyecto muestra cómo utilizar alias de tipos y enums en TypeScript para definir roles de usuarios en una aplicación sencilla.
 
 Requisitos Previos
