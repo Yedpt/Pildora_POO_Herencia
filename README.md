@@ -9,9 +9,8 @@ Este repositorio contiene un ejemplo práctico de **Programación Orientada a Ob
 1. [Conceptos Clave](#conceptos-clave)
 2. [Requisitos Previos](#requisitos-previos)
 3. [Instrucciones de Instalación](#instrucciones-de-instalación)
-4. [Uso del Proyecto](#uso-del-proyecto)
-5. [Ejemplo Práctico de POO y Herencia](#ejemplo-práctico-de-poo-y-herencia)
-6. [Comandos Git Básicos](#comandos-git-básicos)
+4. [Ejemplo Práctico de POO y Herencia](#ejemplo-práctico-de-poo-y-herencia)
+
 
 ---
 
@@ -52,7 +51,7 @@ La **herencia** permite a una clase (subclase) heredar propiedades y métodos de
 5. Para compilar tus archivos .ts debes escribir el siguiente formato:
    tsc <nombre_archivo>.ts
 
-## Ejercicio para practicar Herencia en TypeScript : 
+## ** ejemplo-práctico-de-poo-y-herencia**
  6. Escribir el Código de TypeScript:
     
 Copia el siguiente código en tu archivo prueba.ts:
