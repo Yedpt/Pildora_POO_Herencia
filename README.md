@@ -92,9 +92,9 @@ Copia el siguiente código en tu archivo prueba.ts:
 // 3. Creamos una instancia de Empleado, se crea un objeto empleado1 a partir de la clase Empleado, este objeto se inicializa con el nombre Maria , edad 28 , y puesto de Desarrolladora, luego se llama a los 2 metodos heredados de la clae base y derivados de la subclase:
 
      const empleado1 = new Empleado('María', 28, 'Desarrolladora');
-  empleado1.saludar();  // Hola, soy María y tengo 28 años.
-  empleado1.trabajar(); // María está trabajando como Desarrolladora.
-    
+     empleado1.saludar();  
+     empleado1.trabajar();
+   
 
 // 4. ejecutamos tsc <nombre>.ts
 
