@@ -13,7 +13,7 @@ Pasos para Configurar y Ejecutar el Proyecto
 ### 1. Clonar el Repositorio o Crear la Carpeta del Proyecto
 Para clonar el proyecto, ejecuta el siguiente código:
 
-git clone <https://github.com/Diallo2024/Pildora-TS-Enums-Type-Alias.git>
+git clone https://github.com/Yedpt/Pildora_POO_Herencia.git
 
 ### 2. Inicializar el Proyecto Node.js
 Dentro de la carpeta del proyecto, abre una terminal y ejecuta el siguiente comando para inicializar el proyecto Node.js:
@@ -29,8 +29,8 @@ Esto instalará TypeScript globalmente en tu sistema. Si quieres instalarlo loca
 Para generar el archivo tsconfig.json, que controla las opciones de compilación de TypeScript, ejecuta: 
 => tsc --init
 
-## 5. Crear el Archivo index.ts
-Crea un archivo llamado index.ts en el directorio raíz del proyecto. Aquí es donde escribirás el código de TypeScript para manejar los alias de tipos y enums.
+## 5. Crear el Archivo prueba.ts
+Crea un archivo llamado prueba.ts en el directorio raíz del proyecto. Aquí es donde escribirás el código de TypeScript para manejar los alias de tipos y enums.
 
 
 ## 6. Escribir el Código de TypeScript
