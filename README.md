@@ -51,7 +51,7 @@ La **herencia** permite a una clase (subclase) heredar propiedades y métodos de
 5. Para compilar tus archivos .ts debes escribir el siguiente formato:
    tsc <nombre_archivo>.ts
 
-## ** ejemplo-práctico-de-poo-y-herencia**
+## **Ejemplo Práctico de POO y Herencia**
  6. Escribir el Código de TypeScript:
     
 Copia el siguiente código en tu archivo prueba.ts:
